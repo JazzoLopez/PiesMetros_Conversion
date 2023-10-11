@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Conversion</string>
+    <string name="numero_1">Introduce los metros a convertir\n</string>
+    <string name="btn_add">Presiona</string>
+</resources>
